@@ -1,0 +1,22 @@
+[
+	{ "s": "IMPORTAR", "p": [36] },
+	{ "s": "INDICAR", "p": [12] },
+	{ "s": "INDIQUE", "p": [47, 12] },
+	{ "s": "INDIVIDUAL", "p": [49] },
+	{ "s": "INFORMACIÓN", "p": [48, 12] },
+	{ "s": "INFRAESTRUCTURA", "p": [21, 11, 9, 3] },
+	{ "s": "INGENIEROS", "p": [2, 1] },
+	{ "s": "INICIARÁ", "p": [5] },
+	{ "s": "INP", "p": [48, 36] },
+	{ "s": "INSERCIÓN", "p": [12] },
+	{ "s": "INSERTA", "p": [45] },
+	{ "s": "INSERTAR", "p": [12] },
+	{ "s": "INSTALADO", "p": [5] },
+	{ "s": "INSTRUCCIONES", "p": [2] },
+	{ "s": "INTERCONECTADA", "p": [47, 45, 49] },
+	{ "s": "INTERCONECTADAS", "p": [20] },
+	{ "s": "INTERCONECTADOS", "p": [49] },
+	{ "s": "INTRODUCCIÓN", "p": [3] },
+	{ "s": "INVOCA", "p": [8] },
+	{ "s": "INVOCANDO", "p": [5] }
+]
